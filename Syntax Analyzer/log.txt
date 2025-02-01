@@ -1,0 +1,4 @@
+Line# 1: Token <IF> Lexeme if found
+	ScopeTable# 1
+Total lines: 1
+Total errors: 0
